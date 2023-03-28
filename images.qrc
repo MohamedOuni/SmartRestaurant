@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/cancel.png</file>
+        <file>images/delete.png</file>
+        <file>images/Notification.jpg</file>
+        <file>images/reset.png</file>
+        <file>images/return.png</file>
+        <file>images/update.png</file>
+        <file>images/table.png</file>
+        <file>images/reservation.png</file>
+    </qresource>
+</RCC>

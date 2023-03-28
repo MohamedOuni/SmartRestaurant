@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>ajout.mp3</file>
+        <file>modifie.mp3</file>
+        <file>supprime.mp3</file>
+    </qresource>
+</RCC>

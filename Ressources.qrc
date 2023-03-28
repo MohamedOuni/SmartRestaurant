@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>images/add.png</file>
+        <file>images/cancel.png</file>
+        <file>images/delete.png</file>
+        <file>images/fournisseur.png</file>
+        <file>images/icon8_delete_bin_96px_1.png</file>
+        <file>images/me.png</file>
+        <file>images/Notification.jpg</file>
+        <file>images/reservation.png</file>
+        <file>images/reset.png</file>
+        <file>images/return.png</file>
+        <file>images/stock.png</file>
+        <file>images/table.png</file>
+        <file>images/update.png</file>
+        <file>images/450210.png</file>
+        <file>images/30-302597_menu-menu-png-icon-transparent-png.png</file>
+        <file>images/56-564351_personnel-staff-file-audit-criteria-icon-png.png</file>
+        <file>images/419-4193300_dining-table-i-comments-dining-table-icon-png.png</file>
+        <file>images/1561391-200.png</file>
+        <file>images/images.png</file>
+        <file>images/png-clipart-icone-de-nourriture-livraison-icone-sushi-livraison-de-pizza-scooter-courrier-livraison-de-nourriture-texte.png</file>
+        <file>images/png-clipart-package-delivery-cargo-van-others-angle-van.png</file>
+        <file>images/restaurant-reservation-2-923477.png</file>
+        <file>images/unnamed.png</file>
+        <file>images/2830175.png</file>
+        <file>images/1375136.png</file>
+        <file>images/kissclipart-circle-clipart-number-brand-a48dff2275e177b8.png</file>
+        <file>images/restaurant-table.png</file>
+        <file>images/2545545415.png</file>
+        <file>images/BN37459esprit-logo.png</file>
+        <file>images/ESPRIT.png</file>
+        <file>images/Image4.png</file>
+        <file>images/pngtree-hamburger-background-with-meat-cheese-and-salad-flat-style-cartoon-illustration-image_307739.jpg</file>
+        <file>images/depositphotos_9632573-stock-illustration-spanish-menu-template.jpg</file>
+    </qresource>
+</RCC>
